@@ -1,4 +1,4 @@
-
+// Lakshmi C
 /*
  Part 1: Creating Structs
  Define a Creature struct with the following properties:
