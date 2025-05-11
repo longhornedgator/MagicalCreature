@@ -10,6 +10,8 @@
  Create at least three different creature structs that conform to the Creature struct (e.g., Unicorn, Dragon, Phoenix). Initialize instances of each creature struct with different values for their properties.
  */
 
+//adding pull request per instructions.
+
 struct Creature {
     let name: String
     let description: String
